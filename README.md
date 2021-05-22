@@ -17,6 +17,16 @@ A Master Password is used to encrypt the passwords and it can be only decrypted 
 - [x] Dark Mode
 - [x] Fingerprint or Custom Pin Lock to secure all passwords
 
+## Significance
+
+- This app will help the user to generate strong passwords and let them store it without needing to worry about security. All the passwords are either fingerprint or pin protected and the app authenticates the user in order to let them view the password.
+
+## Future Scope
+
+- Functionality of Single Sign on with Google.
+- 2 Step Verification using Authenticator App or OTP
+- Cross Platform Usage
+
 ## Screenshots
 
 <img src="/assets/screenshots/6.png" width="200px" height="411px" />
